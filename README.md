@@ -11,7 +11,7 @@ Pada buku tersebut terdapat lima bagian, setiap bagian (*part*) memliki chapter,
 ### Bagian 1
 - [x] Mengenal Arduino
 - [x] Papan Arduino
-- [ ] Membuat LED berkedip
+- [x] Membuat LED berkedip
 
 ### Mengenal perangkat-perangkat dari Ardino
 - [ ] Peralatan untuk beroperasi
