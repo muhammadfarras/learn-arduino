@@ -58,8 +58,6 @@ Lampu LED yang ditandi dengan huruf `L` sebenarnya tersambung sebelum sebelum me
 Sekarang kita ingin menambahkan lampu LED eksternal kedalam papan Arduino. Jika kita lihat pada gambar lampu LED, kedua kakinya tidak sama, ada yang lebih panjang dan ada yang lebih pendek. Kaki yang lebih panjang dapat dikatakan anoda (+) dan kaki yang lebih pendek adalah `cathode atau nd`. Letakan anoda pada pin 13 dan cathode pada pin GND (ground).
 ![papan dan led](../aset/papan_dan_led.jpg)
 
-![gif pin 13 dipasang LED](link)
-
 Sebagaimana yang telah dibahas sebelumnya, variabel `LED_BUILTIN` adalah variabel yang telah didefinisikan diawal yang mengacu ke LED pada papan. Karena LED dikendalikan oleh pin no 13, sangat memungkikan untuk mengedalikan komponen lain dengan menghubungkan ke pin no 13. Suplai voltase oleh semua pin dapat terlalu tinggi untuk kebanyakan lampu LED. Untungnya fitur lain dari pin no 13 adalah pin bawaan dan pull-down resistor. Resistor ini menahan LED kita tetap pada tegangan volt yang stabil dan memastika lampu LED memliki umur yang pangjang dalam penggunaanya.
 
 

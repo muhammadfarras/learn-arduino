@@ -14,8 +14,8 @@ Pada buku tersebut terdapat lima bagian, setiap bagian (*part*) memliki chapter,
 - [x] Membuat LED berkedip
 
 ### Mengenal perangkat-perangkat dari Ardino
-- [ ] Peralatan untuk beroperasi
-- [ ] Elektrik dan Sirkuit
+- [x] Peralatan untuk beroperasi **(Belum Lengkap)**
+- [x] Elektrik dan Sirkuit
 - [ ] Sketsa dasar: Masukan, Keluaran dan Komunikasi
 - [ ] Sketssa dasar lainnya : Motion dan Suara
 
