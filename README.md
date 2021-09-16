@@ -16,7 +16,7 @@ Pada buku tersebut terdapat lima bagian, setiap bagian (*part*) memliki chapter,
 ### Mengenal perangkat-perangkat dari Ardino
 - [x] Peralatan untuk beroperasi **(Belum Lengkap)**
 - [x] Elektrik dan Sirkuit
-- [ ] Sketsa dasar: Masukan, Keluaran dan Komunikasi
+- [x] Sketsa dasar: Masukan, Keluaran dan Komunikasi
 - [ ] Sketssa dasar lainnya : Motion dan Suara
 
 ### Membuat pondasi

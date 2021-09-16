@@ -1,0 +1,2 @@
+# Pulse-Width Modulation (PWM)
+Pada bagian pertama kita telah menyinggung tentah *pulse-width modulation*, yaitu salah satu tekhnik yang membuat **arduino** yang kita kenal sebagai mesi digital (*digital device*) bertingkat sebagai mesin analog (*analog device*). Sehingga **arduino** kita dapat mengirim nilai analog menggunakan teknik ini.

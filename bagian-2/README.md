@@ -1,2 +1,3 @@
 - [Peralatan untuk beroperasi](Peralatan%20untuk%20beroperasi.md)
 - [Elektrik dan Sirkuit](Elektrik%20dan%20Sirkuit.md)
+- [Pulse With Modulation]
